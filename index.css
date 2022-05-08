@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(101, 101, 167);
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+.procedure{
+    text-align: center;
+    text-decoration: underline;
+}
+.veg{
+    color: coral;
+}
+.egg{
+    color: coral;
+}
+#id{
+    color: dodgerblue;
+}
+img{
+    border: 2px solid red;
+    border-radius: 500px;
+    padding: 5px;
+    border-right: auto;
+    border-left: auto;
+    display: block;
+}
